@@ -1,4 +1,4 @@
-This is Python GUI Keyboard Based Calculator Project With Which we cxan Easily Perfrom the large or Complex Calculations By Simply Entering the Equation in Entry Box and Submit to It.
+This is Python GUI Keyboard Based Calculator Project With Which we can Easily Perfrom the large or Complex Calculations By Simply Entering the Equation in Entry Box and Submit to It.
 
 In This Project I Have USed the Python GUI Package Called Tkinter.In This User Can Easily Submit the Equations or Calculations by Enter in the Entry Box and After that Press Enter 
 or the Submit Button Which is Provided Below the Entry Box. Everytime After Submission of Equation Result of the Calculation or Equation is Dispalyed in the form of messagebox called 
